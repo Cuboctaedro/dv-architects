@@ -13,6 +13,7 @@
         <?php endforeach; ?>
     <?php endif; ?>
     <?php snippet('meta');?>
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:400,400i,700|Jura:400,700&display=swap&subset=greek" rel="stylesheet">
 
     <?= mix('/app.css') ?>
 </head>
