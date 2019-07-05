@@ -1,6 +1,4 @@
-label:
-    en: Text
-    el: Κείμενο
+label: Text
 type: markdown
 invisibles: false
 size: medium
@@ -9,6 +7,10 @@ font:
     scaling: true
     size: regular
 buttons:
+  - headlines
+    - h2
+    - h3
+    - h4
   - bold
   - italic
   - link

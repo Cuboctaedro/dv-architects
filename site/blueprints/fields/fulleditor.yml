@@ -1,6 +1,4 @@
-label:
-    en: Text
-    el: Κείμενο
+label: Text
 type: markdown
 invisibles: false
 size: medium
@@ -21,3 +19,6 @@ buttons:
   - ol
   - blockquote
   - pagelink
+  - horizontal-rule
+  - image
+  - file

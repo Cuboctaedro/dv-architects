@@ -1,0 +1,49 @@
+Title: Εργα
+
+----
+
+Categories:
+
+- 
+  title: 'Γραφεία - Κτήρια διοίκησης'
+  slug: offices
+- 
+  title: Εκπαίδευτικά
+  slug: education
+- 
+  title: >
+    Αθλητικές
+    εγκαταστάσεις
+  slug: sports
+- 
+  title: Πολιτιστικά
+  slug: culture
+- 
+  title: Δικαστικά κτίρια
+  slug: justice
+- 
+  title: 'Yπηρεσίες υγείας '
+  slug: health-facilities
+- 
+  title: Αεροδρόμια
+  slug: airports
+- 
+  title: Εξωτερικοί χώροι
+  slug: public-spaces
+- 
+  title: 'Ξενοδοχεία - Χώροι αναψυχής'
+  slug: hospitality-recreation
+- 
+  title: Αποκαταστάσεις
+  slug: restorations
+- 
+  title: Κατοικία
+  slug: housing
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

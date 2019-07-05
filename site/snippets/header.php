@@ -18,13 +18,13 @@
     <?= mix('/app.css') ?>
 </head>
 
-<body class="font-sans text-base text-black bg-white " >
+<body class="font-sans text-base text-white bg-gray-600 " >
 
     <a class="skip-link" href="#main">Skip to content</a>
 
     <div class="flex flex-col min-h-screen flex-none ">
 
-        <div class="fixed w-full flex-none flex flex-row flex-wrap justify-between  h-12 mb-6 sm:mb-12 bg-teal-500 shadow-2xl text-white z-10">
+        <div class="fixed w-full flex-none flex flex-row flex-wrap justify-between  h-12 mb-6 sm:mb-12 z-10">
             <?php snippet('nav/single'); ?>
             <?php snippet('nav/languages'); ?>
         </div>

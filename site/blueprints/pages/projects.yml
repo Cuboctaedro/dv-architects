@@ -1,0 +1,26 @@
+title: Projects Page
+
+tabs:
+    content:
+        label: Content
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                drafts:
+                    headline: Category Drafts
+                    type: pages
+                    status: draft
+                    templates: category
+                    parent: site.find("projects")
+                projects:
+                    headline: Published Categories
+                    type: pages
+                    status: published
+                    templates: category
+                    parent: site.find("projects")
+          - width: 1/3
+            sections:
+                pagefiles:
+                    extends: sections/pagefiles
+    seo: tabs/seo

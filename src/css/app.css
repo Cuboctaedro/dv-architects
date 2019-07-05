@@ -1,3 +1,6 @@
+@import "photoswipe/photoswipe.css";
+@import "photoswipe/default-skin.css";
+
 @tailwind base;
 
 @tailwind components;

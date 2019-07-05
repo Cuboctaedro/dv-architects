@@ -1,0 +1,89 @@
+title: Project Page
+
+tabs:
+    content:
+        label: Content
+        icon: text
+        columns:
+          - width: 2/3
+            sections:
+                content:
+                    type: fields
+                    fields:
+                        projecttype:
+                            label: Selected
+                            type: toggle
+                            text: Selected project?
+                        subtitle:
+                            type: text
+                            label: Subtitle
+                            when:
+                                projecttype: true
+                        location:
+                            type: text
+                            label: Location
+                        credits:
+                            label: Credits
+                            type: structure
+                            fields:
+                                creditlabel:
+                                    type: text
+                                    label: Label
+                                credittext:
+                                    type: text
+                                    label: Text
+                        diagram:
+                            type: files
+                            layout: list
+                            multiple: false
+                            label: Diagram
+                            when:
+                                projecttype: true
+                        text:
+                            extends: fields/mideditor
+                            when:
+                                projecttype: true
+                        shorttext:
+                            extends: fields/plaineditor
+                            label: Short Text
+                            when:
+                                projecttype: false
+                        featuredimage:
+                            type: files
+                            layout: list
+                            multiple: false
+                            label: Featured Image
+                            when:
+                                projecttype: true
+                        gallery:
+                            type: structure
+                            label: Gallery
+                            when:
+                                projecttype: true
+                            fields:
+                                rowtype:
+                                    label: Double Image
+                                    type: toggle
+                                    text: Double Image?
+                                firstimage:
+                                    type: files
+                                    layout: list
+                                    multiple: false
+                                    label: First Image
+                                secondimage:
+                                    type: files
+                                    layout: list
+                                    multiple: false
+                                    label: Second Image
+                                    when:
+                                        rowtype: true
+                                caption:
+                                    type: text
+                                    label: Caption
+
+
+          - width: 1/3
+            sections:
+                pagefiles:
+                    extends: sections/pagefiles
+    seo: tabs/seo
