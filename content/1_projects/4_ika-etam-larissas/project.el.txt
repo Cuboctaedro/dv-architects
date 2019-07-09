@@ -1,0 +1,111 @@
+Title: ΙΚΑ - ΕΤΑΜ Λάρισσας
+
+----
+
+Projecttype: true
+
+----
+
+Category: health-facilities
+
+----
+
+Subtitle: 
+
+----
+
+Location: Λάρισσα, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Πελάτης
+  credittext: 'ΙΚΑ - ΕΤΑΜ'
+- 
+  creditlabel: Είδος ανάθεσης
+  credittext: >
+    1st Prize in Competition by
+    pre-selection
+- 
+  creditlabel: Ημερομηνίες
+  credittext: '2008 - 2011'
+
+----
+
+Diagram:
+
+- ika-diagram.png
+
+----
+
+Text:
+
+This building consists of the Health Services and the Insurance Services of IKA-ETAM (Social Security Organization) and each service must be functionally separated. The total area of t he building is above the ground about 6000.00 m2 and underground about 4100.00 m2. The intention is to create a new landmark of the city, using modern and expressive techniques, match the building with its surroundings and allow easy accessibility.
+
+The composition is based on the break of the building into two volumes, one wedge and the other rectangular, implying their different function. The setback of the building at street level allows the city to enter the site, releases public space and marks it as a public building. Each volume is separated at base, body and coronation. The volumes keep their identity and autonomy, but are brought together into a unitary whole through the use of a common architectural vocabulary.
+
+The bioclimatic character of the building is mainly achieved through: a) the care for natural lighting and ventilation in each space, b) the use of environment-friendly materials, c) the controlled shading of glazing, with aluminum louvers -horizontal or
+vertical depending on the orientation- and also with the wire mesh surface.
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage:
+
+- asklipiou.jpg
+
+----
+
+Gallery:
+
+- 
+  rowtype: 'false'
+  firstimage:
+    - asklipiou.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - asklipiou_3.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - asklipiou_hpeiroy.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - hpeirou.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - panw_1.jpg
+  secondimage:
+    - panw_2.jpg
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - pisw_1.jpg
+  secondimage:
+    - pisw_2.jpg
+  caption: null
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

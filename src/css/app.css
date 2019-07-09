@@ -55,9 +55,8 @@
     cursor: pointer;
 }
 
-.gutter {
-    padding-left: 0.75rem;
-    padding-right: 0.75rem;
+.fill-current {
+    fill: currentColor;
 }
 
 ::selection {
@@ -76,7 +75,10 @@
 }
 
 a {
-    @apply text-white ;
+    @apply text-gray-300 ;
+}
+a:hover {
+    @apply text-gray-100 ;
 }
 
 
@@ -85,16 +87,19 @@ a {
 }
 
 .heading-1 {
-    @apply text-2xl font-hairline leading-tight border-t border-solid border-gray-800 uppercase tracking-wider ;
+    @apply font-titles font-normal text-2xl leading-tight ;
 }
-.heading-2 {
-    @apply text-3xl font-hairline leading-tight border-t border-solid border-gray-800 ;
+@screen sm {
+    .heading-1 {
+        @apply font-thin text-4xl ;
+    }
+}
+@screen lg {
+    .heading-1 {
+        @apply text-5xl ;
+    }
 }
 
-/*
-.heading-3 {
-    @apply text-lg font-black font-sans ;
-}  */
 
 .line {
     @apply text-white relative ;
@@ -167,19 +172,9 @@ a {
     padding-right: 0;
 }
 
-/* .project-card img {
-    filter: grayscale(80%);
-    transition: filter ease-in-out 0.5s;
-}
-.project-card:hover img {
-    filter: grayscale(0%);
-} */
 
 
 .main-menu {
-    left: 2rem;
-    /* right: 2rem; */
-    top: 4rem;
     @apply hidden ;
 }
 .main-menu.show {
@@ -190,24 +185,26 @@ a {
         @apply flex ;
     }
 }
-.imageframe {
-    height:0;
-    padding-top: 66.666%;
-    @apply bg-teal-500 ;
+
+
+.grayborder {
+    @apply border-gray-500 ;
 }
 
-.card-thumb {
-    @apply shadow-md ;
+.menueffect {
+    transition: background-color 2s ease-out,
+    color .5s ease-out;
 }
-.card-container:hover .card-thumb {
-    @apply shadow-xl ;
-}
-.homebox {
-    background-color: rgba(56,53,55,0.5);
-}
-.homebox p {
-    margin-bottom: 1rem;
-}
-.homebox p:last-child {
-    margin-bottom: 0;
+
+
+.menucolors {
+    @apply bg-gray-700 menueffect text-gray-300 ;
+    &.active {
+        @apply bg-gray-500 text-gray-100  ;
+    }
+    &:hover,
+    &.active:hover {
+        @apply bg-orange-500 text-gray-900  ;
+    }
+
 }

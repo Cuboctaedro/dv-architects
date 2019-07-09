@@ -14,6 +14,14 @@ tabs:
                             label: Selected
                             type: toggle
                             text: Selected project?
+                        category:
+                            label: Project Category
+                            type: select
+                            options: query
+                            query:
+                                fetch: page.parent.categories.toStructure
+                                text: "{{ structureItem.title }}"
+                                value: "{{ structureItem.slug }}"
                         subtitle:
                             type: text
                             label: Subtitle

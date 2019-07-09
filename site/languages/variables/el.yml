@@ -20,4 +20,6 @@ Saturday: 'Σάββατο'
 Sunday: 'Κυριακή'
 
 
-price: 'Τιμή'
+allprojects: 'Ολα τα έργα'
+featuredprojects: 'Επιλεγμένα έργα'
+bytype: 'Είδη κτιρίων'

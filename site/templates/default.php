@@ -8,9 +8,6 @@
         <div class="w-full lg:w-1/2 gutter generated mb-12">
             <?= $page->text()->kt() ?>
         </div>
-        <div class="w-full lg:w-1/2 flex flex-row flex-wrap mb-8">
-            <?php snippet('gallery'); ?>
-        </div>
 
     </div>
 </article>

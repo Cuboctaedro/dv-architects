@@ -13,15 +13,15 @@ module.exports = {
           white: '#fff',
 
           gray: {
-            100: '#FCF5EB',
-            200: '#F0E9DF',
-            300: '#E0DAD1',
-            400: '#C2BCB4',
-            500: '#96928C',
-            600: '#696661',
-            700: '#5C5955',
-            800: '#3D3B39',
-            900: '#302F2D',
+            100: '#FFFFFA',
+
+            300: '#A1A194',
+
+            500: '#5B605F',
+
+            700: '#464646',
+
+            900: '#323232',
           },
           teal: {
             100: '#90C8D4',
@@ -50,15 +50,7 @@ module.exports = {
             900: '#742a2a',
           },
           orange: {
-            100: '#fffaf0',
-            200: '#feebc8',
-            300: '#fbd38d',
-            400: '#f6ad55',
-            500: '#ed8936',
-            600: '#dd6b20',
-            700: '#c05621',
-            800: '#9c4221',
-            900: '#7b341e',
+            500: '#FF6600',
           },
           yellow: {
             100: '#fffff0',
@@ -97,7 +89,8 @@ module.exports = {
 
         fontFamily: {
             sans: [
-                '"IBM Plex Sans"',
+                'pelago',
+                'Roboto',
                 '-apple-system',
                 'BlinkMacSystemFont',
                 '"Segoe UI"',
@@ -109,6 +102,7 @@ module.exports = {
                 'sans-serif'
             ],
             titles: [
+                'ropa-sans-pro',
                 'Jura',
                 '"Lucida Grande"',
                 '"Lucida Sans Unicode"',

@@ -8,17 +8,30 @@ tabs:
           - width: 2/3
             sections:
                 drafts:
-                    headline: Category Drafts
+                    headline: Project Drafts
                     type: pages
                     status: draft
-                    templates: category
+                    templates: project
                     parent: site.find("projects")
                 projects:
-                    headline: Published Categories
+                    headline: Published Projects
                     type: pages
                     status: published
-                    templates: category
+                    templates: project
                     parent: site.find("projects")
+                cats:
+                    type: fields
+                    fields:
+                        categories:
+                            type: structure
+                            label: Project Categories
+                            fields:
+                                title:
+                                    type: text
+                                    label: Category Title
+                                slug:
+                                    type: text
+                                    label: Category URL
           - width: 1/3
             sections:
                 pagefiles:

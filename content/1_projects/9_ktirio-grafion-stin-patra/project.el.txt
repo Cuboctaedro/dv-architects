@@ -1,0 +1,69 @@
+Title: Κτίριο Γραφείων στην Πάτρα
+
+----
+
+Projecttype: false
+
+----
+
+Category: offices
+
+----
+
+Subtitle: 
+
+----
+
+Location: Πάτρα, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ. Βασιλόπουλος - Β. Καραμάλης'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Κ.Λαμπρινού
+- 
+  creditlabel: Κύριος Εργου
+  credittext: >
+    Αλέξανδρος Τεχνική
+    Α.Ε. –Σ. Κωνσταντίνου
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Ημερομηνία
+  credittext: Μελέτη 2004
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

@@ -7,38 +7,49 @@ Categories:
 - 
   title: 'Γραφεία - Κτήρια διοίκησης'
   slug: offices
+  name: ""
 - 
   title: Εκπαίδευτικά
   slug: education
+  name: ""
 - 
   title: >
     Αθλητικές
     εγκαταστάσεις
   slug: sports
+  name: ""
 - 
   title: Πολιτιστικά
   slug: culture
+  name: ""
 - 
   title: Δικαστικά κτίρια
   slug: justice
+  name: ""
 - 
   title: 'Yπηρεσίες υγείας '
   slug: health-facilities
+  name: ""
 - 
   title: Αεροδρόμια
   slug: airports
+  name: ""
 - 
   title: Εξωτερικοί χώροι
   slug: public-spaces
+  name: ""
 - 
   title: 'Ξενοδοχεία - Χώροι αναψυχής'
   slug: hospitality-recreation
+  name: ""
 - 
   title: Αποκαταστάσεις
   slug: restorations
+  name: ""
 - 
   title: Κατοικία
   slug: housing
+  name: ""
 
 ----
 

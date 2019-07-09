@@ -1,0 +1,94 @@
+Title:
+
+Πολυκέντρο Αγίας Βαρβάρας
+
+----
+
+Projecttype: true
+
+----
+
+Category: health-facilities
+
+----
+
+Subtitle: 
+
+----
+
+Location: Αγία Βαρβάρα, Αθήνα, Ελλάδα
+
+----
+
+Credits: 
+
+----
+
+Diagram:
+
+- agia-varvara-diagram.png
+
+----
+
+Text:
+
+This public building consists of a Day care centre for older people, office spaces, stores, a multipurpose hall and an  underground parking. The total area of t he building is 1066,00 m². The “brushed aside” -a construction of white parapet- is
+used for consolidation of facades with the unification of horizontal surfaces with vertical elements. Thus the wooden
+panels offer an ecological parameter to the project while also serving as shading panels.
+
+The bioclimatic character of the building is also achieved through: a) the care for natural lighting and ventilation b) the
+controlled shading of glazing, with wooden and aluminum louvers and pergolas, c) the use of environment-friendly
+materials, d) the formation of green spaces, green roofs that enable the natural cooling during the summer.
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage:
+
+- 3.jpg
+
+----
+
+Gallery:
+
+- 
+  rowtype: 'false'
+  firstimage:
+    - 1.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - 2.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - 3.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - 4.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - 5.jpg
+  secondimage: [ ]
+  caption: null
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

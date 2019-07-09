@@ -19,8 +19,13 @@ tabs:
                     headline: Projects
                     type: pages
                     status: all
-                    templates: category
+                    templates: project
                     parent: site.find("projects")
+                allpages:
+                    headline: Pages
+                    type: pages
+                    status: all
+                    templates: default
           - width: 1/3
             sections:
                 pagefiles:
