@@ -4,6 +4,5 @@
     "editor.renderWhitespace": "all",
     "editor.wordWrap": "on",
     "editor.lineHeight": 21,
-    "editor.fontFamily": "Hack, 'Courier New', monospace",
-    "editor.fontSize": 15
+    "editor.fontFamily": "'Fira Code', 'Courier New', monospace"
 }

@@ -54,3 +54,9 @@ Icon
 
 
 /assets
+
+
+# -------------DEV-------------
+.editorcnfig
+.editorcnfig.txt
+/.vscode

@@ -1,3 +1,4 @@
 allprojects: 'All Projects'
 featuredprojects: 'Selected Projects'
 bytype: 'Building Types'
+diagram: 'Diagram'

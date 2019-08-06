@@ -15,14 +15,14 @@
             <?php snippet('projectcredits') ?>
         </div>
         <div class="w-full lg:w-3/4 lg:border-l border-solid grayborder">
-            <img src="<?= $page->gallery()->toStructure()->first()->firstimage()->toFile()->url(); ?>" class="object-cover w-full h-full" />
+            <?php snippet('images/full', ['pic' => $page->gallery()->toStructure()->first()->firstimage()->toFile(), 'classes'=> ' object-cover w-full h-full ']) ?>
         </div>
     </div>
 
     <div class="flex flex-row justify-center ">
         <?php if($page->diagram()->isNotEmpty()): ?>
         <div class="h-48 w-64 lg:w-1/4 m-8">
-            <img src="<?= $page->diagram()->toFile()->url(); ?>" class="object-contain w-full h-full" />
+            <img src="<?= $page->diagram()->toFile()->url(); ?>" class="object-contain w-full h-full" alt="<?= $page->title() ?> - <?= t('diagram') ?>" />
         </div>
         <?php endif; ?>
     </div>
@@ -38,39 +38,15 @@
                     <?php if($row->rowtype() == 'true'): ?>
                         <div class="flex flex-row flex-wrap items-stretch ">
                             <div class="w-full md:w-1/2">
-                                <picture>
-                                    <source media="(max-width: 479px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 480])->url(); ?>">
-                                    <source media="(max-width: 767px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 768])->url(); ?>">
-                                    <source media="(max-width: 1023px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 512])->url(); ?>">
-                                    <source media="(max-width: 1339px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 512])->url(); ?>">
-                                    <source media="(max-width: 1600px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 600])->url(); ?>">
-                                    <source media="(min-width: 1601px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 800])->url(); ?>">
-                                    <img src="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 800])->url(); ?>" class="object-cover w-full h-full" />
-                                </picture>
+                                <?php snippet('images/half', ['pic' => $row->firstimage()->toFile(), 'classes'=> ' object-cover w-full h-full ']) ?>
                             </div>
                             <div class="w-full md:w-1/2">
-                                <picture>
-                                    <source media="(max-width: 479px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 480])->url(); ?>">
-                                    <source media="(max-width: 767px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 768])->url(); ?>">
-                                    <source media="(max-width: 1023px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 512])->url(); ?>">
-                                    <source media="(max-width: 1339px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 512])->url(); ?>">
-                                    <source media="(max-width: 1600px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 600])->url(); ?>">
-                                    <source media="(min-width: 1601px)" srcset="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 800])->url(); ?>">
-                                    <img src="<?= $row->secondimage()->toFile()->thumb([ 'width'=> 800])->url(); ?>" class="object-cover w-full h-full" />
-                                </picture>
+                                <?php snippet('images/half', ['pic' => $row->secondimage()->toFile(), 'classes'=> ' object-cover w-full h-full ']) ?>
                             </div>
                         </div>
                     <?php else: ?>
                         <div class="w-full">
-                            <picture>
-                                <source media="(max-width: 479px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 480])->url(); ?>">
-                                <source media="(max-width: 767px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 768])->url(); ?>">
-                                <source media="(max-width: 1023px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 1024])->url(); ?>">
-                                <source media="(max-width: 1339px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 1024])->url(); ?>">
-                                <source media="(max-width: 1600px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 1200])->url(); ?>">
-                                <source media="(min-width: 1601px)" srcset="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 1600])->url(); ?>">
-                                <img src="<?= $row->firstimage()->toFile()->thumb([ 'width'=> 1600])->url(); ?>" class="block w-full h-auto lg:object-cover lg:h-full" />
-                            </picture>
+                        <?php snippet('images/full', ['pic' => $row->firstimage()->toFile()]) ?>
                         </div>
                     <?php endif; ?>
                     <div class="w-full h-10 border-t border-b border-solid grayborder gutter py-2 text-center text-gray-800 italic text-sm" >

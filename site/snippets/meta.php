@@ -2,7 +2,7 @@
 <meta property="og:description" content="<?= $page->metadescription()?>" />
 <meta property="og:url" content="<?= $page->url()?>" />
 <?php if($page->coverimage()): ?>
-    <meta property="og:image" content="<?= $page->coverimage()->toFile()->thumb([
+    <meta property="og:image" content="<?= $page->coverimage()->thumb([
         'width'   => 1200,
         'height'  => 630,
         'crop'    => true
@@ -15,7 +15,7 @@
 <meta name="twitter:title" content="<?= $page->title() ?>">
 <meta name="twitter:description" content="<?= $page->metadescription()?>">
 <?php if($page->coverimage()): ?>
-    <meta name="twitter:image" content="<?= $page->coverimage()->toFile()->thumb([
+    <meta name="twitter:image" content="<?= $page->coverimage()->thumb([
         'width'   => 1200,
         'height'  => 630,
         'crop'    => true
@@ -33,7 +33,7 @@
     }
     <?php if($page->coverimage()): ?>
     ,
-    "image": "<?= $page->coverimage()->toFile()->thumb(['width'=> 1200,'height'=> 630,'crop'=> true])->url() ?>"
+    "image": "<?= $page->coverimage()->thumb(['width'=> 1200,'height'=> 630,'crop'=> true])->url() ?>"
     <?php endif; ?>
 }
 </script>
