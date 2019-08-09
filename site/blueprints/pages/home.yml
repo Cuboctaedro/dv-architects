@@ -12,6 +12,9 @@ tabs:
                 content:
                     type: fields
                     fields:
+                        slogan:
+                            type: text
+                            label: Slogan
                         text:
                             extends: fields/fulleditor
                         featuredimage:

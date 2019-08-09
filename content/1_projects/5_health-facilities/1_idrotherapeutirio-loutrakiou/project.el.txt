@@ -1,0 +1,137 @@
+Title:
+
+Υδροθεραπευτήριο Λουτρακίου
+
+----
+
+Projecttype: true
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Λουτράκι, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Πελάτης
+  credittext: 'Daet- Loutraki S.A.'
+- 
+  creditlabel: Κατασκευαστής
+  credittext: Alexandros Techniki S.A.
+- 
+  creditlabel: Φάση έργου
+  credittext: 'Final Design Phase - Construction Documentation'
+- 
+  creditlabel: Τρόπος ανάθεσης
+  credittext: 1st Prize in Turn-Key Competition
+- 
+  creditlabel: Ημερομηνίες
+  credittext: 2006-2008
+
+----
+
+Diagram:
+
+- loutraki-diagram.png
+
+----
+
+Text:
+
+The new Thermal Spa is connected functionally with the renovated existing building, in order to supply the growing needs in areas for treatment with thermal water. The total area of t he building is 5.318,69 m². The main purpose was to create an extroverted building, "legible", "easily accessible" open to the society and the city, using and offering thermal water as an element of everyday enjoyment for all social groups and ages.
+
+The Spa building functions as a shelter, that welcomes the city to find and enjoy the thermal water, while the steep slope at the northern boundary -from where the thermal springs aquifer is stoked- is found again through an intense sloping and a diagonal level. The inspiration for the design of the building was to transfer the slope-hill in the building, from where the thermal water springs, creating swimming pools and eventually meet the city “intruding” from the opposite side. Additionally the spatial and visual continuity with the outside swimming pool, combined with the suspended roofs and holes on it, reduce the large size of the building.
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage:
+
+- loytraki_exw_8.jpg
+
+----
+
+Gallery:
+
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_exw_8.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - loytraki_exw_4.jpg
+  secondimage:
+    - loytraki_exw_5.jpg
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_exw_3.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_exw_7.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_esw_8.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_esw_4.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loytraki_esw_11.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - loytraki_esw_5.jpg
+  secondimage:
+    - loytraki_esw_7.jpg
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - loytraki_esw_3.jpg
+  secondimage:
+    - loytraki-_esw_10.jpg
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - loutraki-katopsi.png
+  secondimage: [ ]
+  caption: Κάτοψη
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

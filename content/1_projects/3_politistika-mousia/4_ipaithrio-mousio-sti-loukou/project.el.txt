@@ -1,0 +1,81 @@
+Title:
+
+Υπαίθριο Μουσείο στη Λουκου
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Λουκου, Κυνουρία
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Υπουργείο Πολιτισμού
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: 2006-2007
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 3.910.000,00 €
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Σ.Κολοβού, Α.Αρτελάρη
+- 
+  creditlabel: Ειδος έργου
+  credittext: >
+    ΣΥΜΜΕΤΟΧΗ ΣΕ
+    ΔΙΑΓΩΝΙΣΜΟ ΜΕ ΤΟ
+    ΣΥΣΤΗΜΑ
+    ΜΕΛΕΤΗ-ΚΑΤΑΣΚΕΥΗ
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: ΧΩΡΟΤΕΧΝΙΚΗ Α.Τ.Ε.
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext:
+
+Κατασκευή υπαίθριου μουσείου του κεντρικού τμήματος της «Ρωμαϊκής Έπαυλης Ηρώδου Αττικού» στη Λουκου Κυνουρίας.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

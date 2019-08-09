@@ -1,0 +1,129 @@
+Title: Επέκταση Εθνικής Πινακοθήκης
+
+----
+
+Projecttype: true
+
+----
+
+Subtitle: Addition, Improvement, Restoration
+
+----
+
+Location: Athens, Greece
+
+----
+
+Credits:
+
+- 
+  creditlabel: Date
+  credittext: '2008 - 2009'
+- 
+  creditlabel: Project status
+  credittext: 'Final Design Phase - Construction Documentation'
+- 
+  creditlabel: In colaboration with the architects
+  credittext: >
+    Architectoniki ltd, Grammatopoulos,
+    Panousakis
+- 
+  creditlabel: Client
+  credittext: Ministry of Culture
+- 
+  creditlabel: Selection process
+  credittext: Selected from an Interest Indication
+
+----
+
+Diagram: - pinakothiki-diagram.png
+
+----
+
+Text:
+
+The study covers the imminent needs of additional spaces of the National Gallery’s existing building, with extensions, additions and rearrangement. The expansion adds 11.040 sqm to the existing 9.720 sqm. Central idea of the proposal is to unify the exhibition spaces of different levels, using the additional stairwells. The “spiral” shape glazing stairwell unifies the entrance building A with the undercover building C and is a light sculpture of the surrounding area, that helps the pleasant transition of the visitor to the underground exhibition halls. Principal elements are also the ramps located outside and away from the building B, ending at the building C.
+
+Simultaneously, the structural glazing system (Planar type), in front of the ramps separates in a transparent way the “inside” and the “outside”. The glazing also allows the penetration of natural light to the underground exhibition halls. A part of it will work as a constant advertising screen, presenting to the public the multiple exhibitions and activities, with modern visual and perceptual techniques. Thus the National Gallery converses with the city and its residents, eliminating the introversion, with a new profile more modern, dynamic, functional and especially appealing.
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: - c3.jpg
+
+----
+
+Gallery:
+
+- 
+  rowtype: 'false'
+  firstimage:
+    - c3.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - c2.jpg
+  secondimage: [ ]
+  caption: null
+- 
+  rowtype: 'false'
+  firstimage:
+    - c3-nuxta.jpg
+  secondimage: [ ]
+  caption: Νυχτερινή άποψη
+- 
+  rowtype: 'false'
+  firstimage:
+    - c6.jpg
+  secondimage: [ ]
+  caption: Πίσω όψη
+- 
+  rowtype: 'true'
+  firstimage:
+    - c1.jpg
+  secondimage:
+    - c1-nuxta.jpg
+  caption: null
+- 
+  rowtype: 'true'
+  firstimage:
+    - 3d-int_rampa-3.jpg
+  secondimage:
+    - 3d-int_rampa-4.jpg
+  caption: Ράμπα
+- 
+  rowtype: 'true'
+  firstimage:
+    - 3d-int_rampa-5.jpg
+  secondimage:
+    - 3d-int_rampa-6.jpg
+  caption: Ράμπα
+- 
+  rowtype: 'false'
+  firstimage:
+    - vasilopoulos-pinakothiki-_view02.jpg
+  secondimage: [ ]
+  caption: Εσωτερικό
+- 
+  rowtype: 'true'
+  firstimage:
+    - vasilopoulos-pinakothiki-_view01.jpg
+  secondimage:
+    - >
+      vasilopoulos-pinakothiki-_view01-night.jpg
+  caption: >
+    Εσωτερικο μέρα και
+    νύχτα
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

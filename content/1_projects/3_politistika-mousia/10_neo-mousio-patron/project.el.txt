@@ -1,0 +1,66 @@
+Title:
+
+Νέο Μουσείο Πατρών
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Πάτρα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Υπουργείο Πολιτισμού
+- 
+  creditlabel: Χρονολογία
+  credittext: "2002"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 10.093.646,03 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: >
+    Δ. Βασιλόπουλος – Β.
+    Καραμαλης και
+    Συνεργάτες Ο.Ε.
+- 
+  creditlabel: Σε συνεργασία με
+  credittext: 'ΑΡΧΙΤΕΚΤΟΝΙΚΗ ΕΠΕ- Π.ΓΡΑΜΜΑΤΟΠΟΥΛΟΣ- Χ.ΠΑΝΟΥΣΑΚΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Π.Ε.'
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: Κλειστός διαγωνισμός προσχεδίων, δεύτερη θέση στην αξιολόγιση.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

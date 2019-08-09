@@ -1,0 +1,65 @@
+Title:
+
+Νέο Μουσείο Ακρόπολης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Αθήνα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Υπουργείο Πολιτισμού
+- 
+  creditlabel: Χρονολογία
+  credittext: "1990"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 20.542.920,00 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. Βασιλόπουλος
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    αρχιτέκτονα
+  credittext: Ε. Ματζιου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: Διεθνής αρχιτεκτονικός διαγωνισμός ιδεών, τιμητική θέση.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

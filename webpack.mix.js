@@ -20,7 +20,8 @@ mix
     })
     .purgeCss({
         folders: ['site/templates', 'site/snippets', 'site/snippets/form', 'site/snippets/nav'],
-        whitelist: ['show']
+        whitelistPatterns: [/^pswp/],
+        whitelist: ['active']
 
     })
     .version()

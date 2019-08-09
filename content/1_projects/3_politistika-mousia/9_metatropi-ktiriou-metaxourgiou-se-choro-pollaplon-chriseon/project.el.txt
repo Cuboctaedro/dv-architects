@@ -1,0 +1,78 @@
+Title:
+
+Μετατροπή Κτιρίου Μεταξουργείου σε Χώρο πολλαπλών χρήσεων
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Μεταξουργείο, Αθήνα
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: >
+    ΑΛΕΞΑΝΔΡΟΣ ΤΕΧΝΙΚΗ
+    Α.Ε.
+- 
+  creditlabel: Κύριος Έργου
+  credittext: 'Δήμος Αθηναίων '
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "2005"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 5.572.249,15 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: >
+    Δ. Βασιλόπουλος – Β.
+    Καραμαλης καυ
+    Συνεργάτες Ο.Ε.
+- 
+  creditlabel: Σε συνεργασία με
+  credittext: ' ΚΟΜ 37 Αρχιτέκτονες, Γούσης - Frijda Αρχιτέκτονες'
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

@@ -14,7 +14,7 @@
     <?php endif; ?>
     <?php snippet('meta');?>
 
-    <!-- <link href="https://fonts.googleapis.com/css?family=Literata:400,400i,700|Play:400,700&display=swap&subset=greek" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400|Roboto:400,400i,900&display=swap&subset=greek" rel="stylesheet">
 
     <link rel="stylesheet" href="https://use.typekit.net/uwv4bxv.css">
     <?= mix('/app.css') ?>

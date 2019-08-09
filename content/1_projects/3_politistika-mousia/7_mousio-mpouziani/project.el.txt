@@ -1,0 +1,72 @@
+Title:
+
+Μουσείο Μπουζιάνη
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δάφνη, Αττική
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    Κ/ΞΙΑ
+  credittext: >
+    ΑΛΕΞΑΝΔΡΟΣ ΤΕΧΝΙΚΗ
+    Α.Ε.-ΓΕΩΡΥΘΜΙΚΗ ΑΤΕ
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Δάφνης
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "2006"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: ' 2.800.000,00 €'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Σ.Κολοβού, Α.Αρτελάρη
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

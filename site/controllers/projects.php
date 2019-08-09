@@ -2,31 +2,18 @@
 
 return function ($page) {
 
-    $categorylist = $page->categories()->toStructure();
-
-    $allprojects = $page->children()->listed();
-
-    $projects = $page->children()->listed()->filterBy('projecttype', '==', 'true');
-
-    $otherprojects = $page->children()->listed()->filterBy('projecttype', '!=', 'true');
-
-    $pagetitle = t('featuredprojects');
-
-    $cat = false;
-
+    $projects = $page->children()->children()->filterBy('projecttype', '==', 'true');
     $showall = false;
-
-    if($cat = param('category')) {
-        $projects = $allprojects->filterBy('category', $cat);
-        $pagetitle = $categorylist->findBy('slug', $cat)->title();
-    }
-
-    if(param('all')) {
+    $pagetitle = t('featuredprojects');
+   
+    if($all = param('all')) {
+        $projects = $page->children()->children();
         $showall = true;
-        $projects = $projects->add($otherprojects);
         $pagetitle = t('allprojects');
     }
 
-    return compact('projects', 'cat', 'showall', 'pagetitle');
+
+
+    return compact('projects', 'pagetitle', 'showall');
 
 };

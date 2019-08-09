@@ -1,0 +1,68 @@
+Title:
+
+Ανάπλαση Εργοστασίου ΒΙο-Φιαλ
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Ίλιον, Αττική
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Αναπτυξιακός
+    Σύνδεσμος Δυτικής
+    Αθήνας (Α.Σ.Δ.Α.)
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "2007"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 9.500.000,00 €
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Σ.Κολοβού, Α.Αρτελάρη
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

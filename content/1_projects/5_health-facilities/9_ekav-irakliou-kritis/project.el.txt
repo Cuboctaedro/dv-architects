@@ -1,0 +1,67 @@
+Title:
+
+ΕΚΑΒ Ηρακλείου Κρήτης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Ηράκλειο, Κρήτη
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: 'ΚΑΠΑ ΤΕΧΝΙΚΗ ΑΕ '
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Γ.Π.Ν. Ηρακλείου
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "1997"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: ' 586.940,57 €'
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext:
+
+Συμμετοχη σε διαγωνισμό με το σύστημα μελέτη-κατασκευή.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

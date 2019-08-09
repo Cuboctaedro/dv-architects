@@ -1,0 +1,81 @@
+Title:
+
+Πολιτιστικό Κέντρο Κανήθου
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Κανηθος, Χαλκίδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    Κ/ΞΙΑ
+  credittext: >
+    Δ. Γεωργοσόπουλος –Π.
+    Σακελλαράκης
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Χαλκίδας
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική – Μελέτη
+    Εφαρμογής
+- 
+  creditlabel: Χρονολογία
+  credittext: >
+    Μελέητ 1995, Κατασκευή
+    1996-1998
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 220.102,71 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. Βασιλόπουλος
+- 
+  creditlabel: >
+    Σε συνεργασία με τούς
+    Αρχιτέκτονες
+  credittext: Γ. Μαυρίδη, Ε. Ορφανού
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext:
+
+Ανάθεση από συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

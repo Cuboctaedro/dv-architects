@@ -1,0 +1,77 @@
+Title: Museum of Rural Heritage and Agricultural Technology
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Aliartos, Greece
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: 'Υπουργ. Αγροτικής Ανάπτυξης & Τροφίμων'
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 2.277.150,00€
+- 
+  creditlabel: Χρονολογία
+  credittext: "2008"
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Κολοβού, Α. Αρτελάρη,
+    Χ.Σουλιώτη
+- 
+  creditlabel: Είδος Εργου
+  credittext: >
+    ΣΥΜΜΕΤΟΧΗ ΣΕ
+    ΔΙΑΓΩΝΙΣΜΟ ΜΕ ΤΟ
+    ΣΥΣΤΗΜΑ
+    ΜΕΛΕΤΗ-ΚΑΤΑΣΚΕΥΗ
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: ΑΛΚΑΙΟΣ Α.Τ.Ε.
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

@@ -1,0 +1,69 @@
+Title: Κεντρο Κοινωνικής Υποστήριξης ΑΜΕΑ Ξάνθης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: 
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: 'ΦΙΛΙΠΠΟΣ ΑΕ '
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Νομαρχιακή
+    Αυτοδιοίκηση Ξάνθης
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: 'Οριστική - Εφαρμογής'
+- 
+  creditlabel: Χρονολογία
+  credittext: >
+    Μελέτη 1998, Κατασκευή
+    1999-2001
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 704.328,69 €
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext:
+
+Ανάθεση από διαγωνισμό με το σύστημα μελέτη-κατασκευή.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

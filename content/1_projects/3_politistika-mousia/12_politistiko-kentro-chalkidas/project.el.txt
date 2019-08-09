@@ -1,0 +1,75 @@
+Title: Πολιτιστικό Κέντρο Χαλκίδας
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Χαλκίδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    Κ/ΞΙΑ
+  credittext: >
+    Δ. Γεωργοσόπουλος –Π.
+    Σακελλαράκης
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Χαλκίδας
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: 'Χρονολογία '
+  credittext: "1995"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 264.123,26 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. Βασιλόπουλος
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Γ. Μαυρίδη, Ε. Ορφανού
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext:
+
+Συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

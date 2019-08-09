@@ -1,0 +1,72 @@
+Title:
+
+Επέκταση Βυζαντινού Μουσείου Θεσσαλονίκης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Θεσσαλονίκη
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: >
+    ΑΛΕΞΑΝΔΡΟΣ ΤΕΧΝΙΚΗ
+    Α.Ε.
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Υπουργείο Πολιτισμού
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "2005"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 3.680.705,00 €
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: Σ.Παπαϊωάννου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

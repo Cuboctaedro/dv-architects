@@ -1,0 +1,77 @@
+Title:
+
+Θέατρο Ζακύνθου
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Ζάκυνθος
+
+----
+
+Credits:
+
+- 
+  creditlabel: >
+    Σε συνεργασία με την
+    εργοληπτική εταιρία
+  credittext: ΑΡΧΙΚΟΝ Α.Ε.
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Ζακύνθου
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: 'Οριστική - Μελέτη Εφαρμογής'
+- 
+  creditlabel: Χρονολογία
+  credittext: >
+    Μελέτη 2006-2007,
+    Κατασκευή 2008-
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 4.998.000,00€
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Χ.Κατσιάνος,
+    Σ.Κολοβού, Α.Αρτελάρη,
+    Χ.Σουλιώτη
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

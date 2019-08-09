@@ -1,0 +1,68 @@
+Title: Κλινική Μητέρα
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: 
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Μητέρα Α.Ε.
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: Οριστική
+- 
+  creditlabel: Χρονολογία
+  credittext: "2003"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 50.000.000,00 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ. Βασιλόπουλος – Β. Καραμάλης & Συνεργάτες Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Κολοβού,
+    Κ.Λαμπρινού, Θ.Παναγέα
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: Ιδιωτικό έργο, ανάθεση
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

@@ -1,0 +1,62 @@
+Title:
+
+Μουσείο Φυσικής Ιστορίας Σάμου
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Σάμος
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Κοινότητα
+    Μυτιληναίων
+- 
+  creditlabel: Χρονολογία
+  credittext: "1990"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 1.760.821,72 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. Βασιλόπουλος
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: Πανελλήνιος Αρχιτεκτονικός διαγωνισμός προσχεδίων.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

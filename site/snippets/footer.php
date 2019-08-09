@@ -1,6 +1,7 @@
         </main>
 
-        <footer class="flex-none container gutter pb-12" id="contact">
+        <footer class="flex-none border-t border-solid grayborder">
+            <?php snippet('nav/footer'); ?>
         </footer>
 
     </div>

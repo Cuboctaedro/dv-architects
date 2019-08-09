@@ -1,0 +1,60 @@
+Title:
+
+Μνημειακό συγκρότημα Μάχης της Κρήτης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Χανιά, Κρήτη
+
+----
+
+Credits:
+
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Νομαρχία Χανίων
+- 
+  creditlabel: Χρονολογία
+  credittext: "1990"
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 1.760.821,72 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: 'Δ. Βασιλόπουλος '
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: Πανελλήνιος Αρχιτεκτονικός διαγωνισμός προσχεδίων.
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 
