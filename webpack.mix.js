@@ -21,7 +21,7 @@ mix
     .purgeCss({
         folders: ['site/templates', 'site/snippets', 'site/snippets/form', 'site/snippets/nav'],
         whitelistPatterns: [/^pswp/],
-        whitelist: ['active']
+        whitelist: ['active', 'show']
 
     })
     .version()
