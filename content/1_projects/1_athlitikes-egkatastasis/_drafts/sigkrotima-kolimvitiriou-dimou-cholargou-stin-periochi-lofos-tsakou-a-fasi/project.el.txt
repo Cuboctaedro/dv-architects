@@ -1,0 +1,73 @@
+Title:
+
+Συγκρότημα Κολυμβητηρίου Δήμου Χολαργού - στην περιοχή Λόφος Τσάκου, α' φάση
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Χολαργού, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: 2006-2007
+- 
+  creditlabel: Στάδιο μελέτης
+  credittext: "Οριστική μελέτη - συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή - α' θέση"
+- 
+  creditlabel: Κύριος του έργου
+  credittext: Δήμος Χολαργού
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: ΑΡΧΙΚΟΝ ΑΕ
+- 
+  creditlabel: Προϋπολογισμός έργου
+  credittext: 2.700.000,00 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.Βασιλόπουλος - Γ.Ασημομύτης'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες (του
+    γραφείου
+    Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ)
+  credittext: Σ.Κολοβού, Α.Αρτελάρη
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

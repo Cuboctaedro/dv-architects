@@ -1,0 +1,75 @@
+Title:
+
+Κατασκευή Ανοικτού Κολυμβητηρίου στο Δήμο Περιστερίου Αττικής
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Δήμος Περιστερίου Αττικής, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "1994"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική μελέτη –
+    συμμετοχή σε
+    διαγωνισμό με το
+    σύστημα μελέτη –
+    κατασκευή
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Υπουργείο Πολιτισμού
+    – Γ.Γ.Α.
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία: ΚΑΠΠΑ ΤΕΧΝΙΚΗ ΑΕ '
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 1.614.086,57 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. ΒΑΣΙΛΟΠΟΥΛΟΣ
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

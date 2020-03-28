@@ -1,0 +1,75 @@
+Title:
+
+Ολυμπιακό Κέντρο Κολύμβησης ΟΑΚΑ - Εργα ανακαίνισης και  αναβάθμισης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Δήμος Αμαρουσίου, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2002"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική μελέτη –
+    συμμετοχή σε
+    διαγωνισμό με το
+    σύστημα μελέτη –
+    κατασκευή
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Υπουργείο Πολιτισμού
+    – Γ.Γ.Α.
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Κ/ΞΙΑ :  ΜΗΧΑΝΙΚΗ Α.Ε. - ΕΛΤΕΡ Α.Τ.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 13.206.162,87 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

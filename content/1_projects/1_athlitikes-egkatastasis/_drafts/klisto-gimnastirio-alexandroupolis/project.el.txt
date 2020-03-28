@@ -1,0 +1,71 @@
+Title:
+
+Κλειστό Γυμναστήριο Αλεξανδρούπολης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Αλεξανδρούπολης, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: 2005-2008
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: 'Προμελέτη - Οριστική - Παροχή υπηρεσιών συμβούλου'
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Ανώνυμη Αναπτυξιακή
+    Εταιρεία
+    Αλεξανδρούπολης Α.Ε.
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 6.000.000,00 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: 'Σ.Κολοβού, Α.Αρτελάρη '
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

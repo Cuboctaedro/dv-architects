@@ -1,0 +1,81 @@
+Title:
+
+Μελέτη Αναβάθμισης Καυτατζογλείου Σταδίου Θεσσαλονίκης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Θεσσαλονίκη, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: 2001-2002
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική μελέτη –
+    συμμετοχή σε
+    διαγωνισμό με το
+    σύστημα μελέτη –
+    κατασκευή
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Υπουργείο Πολιτισμού
+    – Γ.Γ.Α.
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία: ΕΛΤΕΡ Α.Τ.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 39.325.018,34 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Κ.Πανυγήρης,
+    Η.Χανδέλης,
+    Μ.Κωνσταντινίδου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

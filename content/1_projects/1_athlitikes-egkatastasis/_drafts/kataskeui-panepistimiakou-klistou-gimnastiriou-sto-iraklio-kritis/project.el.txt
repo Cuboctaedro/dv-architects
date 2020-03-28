@@ -1,0 +1,71 @@
+Title:
+
+Κατασκευή |Πανεπιστημιακού Κλειστού Γυμναστηρίου στο Ηράκλειο Κρήτης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Ηράκλειο Κρήτης, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "1998"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική μελέτη –
+    συμμετοχή σε
+    διαγωνισμό με το
+    σύστημα μελέτη –
+    κατασκευή
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Πανεπιστήμιο Κρήτης
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία: ΚΑΠΑ ΤΕΧΝΙΚΗ ΑΕ '
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 2.201.027,15 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. ΒΑΣΙΛΟΠΟΥΛΟΣ
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

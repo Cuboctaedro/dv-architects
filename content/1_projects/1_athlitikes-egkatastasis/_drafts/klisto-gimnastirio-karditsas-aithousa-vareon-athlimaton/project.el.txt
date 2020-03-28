@@ -1,0 +1,75 @@
+Title:
+
+Κλειστό Γυμναστήριο Καρδίτσας - Αίθουσα Βαρέων αθλημάτων
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Καρδίτσας, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2004"
+- 
+  creditlabel: 'Στάδιο Μελέτης - συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή'
+  credittext: null
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Καρδίτσας
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Κ/ΞΙΑ : ΑΝΑΠΛΑΣΕΩΝ  Α.Τ.Ε. – ΩΡΙΩΝ Α.Τ.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 7.361.016,95 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Κολοβού,
+    Κ.Λαμπρινού,
+    Θ.Παναγέα,
+    Σ.Παπαϊωάνου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

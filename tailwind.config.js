@@ -89,21 +89,13 @@ module.exports = {
 
         fontFamily: {
             sans: [
-                // 'pelago',
+                '"Open Sans"',
                 'Roboto',
-                '-apple-system',
-                'BlinkMacSystemFont',
-                '"Segoe UI"',
-                'Roboto',
-                '"Oxygen-Sans"',
                 'Ubuntu',
-                'Cantarell',
-                '"Helvetica Neue"',
                 'sans-serif'
             ],
             titles: [
-                // 'ropa-sans-pro',
-                // 'Jura',
+                'Jura',
                 '"Roboto Condensed"',
                 '"Lucida Grande"',
                 '"Lucida Sans Unicode"',

@@ -1,0 +1,74 @@
+Title:
+
+Κατασκευή Κλειστού Κολυμβητηρίου Δήμου Πρέβεζας
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Πρέβεζας, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2003"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: "Οριστική μελέτη – συμμετοχή σε διαγωνισμό με το σύστημα μελέτη – κατασκευή - α' θέση"
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Πρέβεζας
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία: ΑΡΧΙΚΟΝ Α.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 2.641.232,00€
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Μ. ΒΟΤΣΗΣ,
+    Φ.ΓΕΡΟΝΤΑΚΗΣ,
+    Δ.ΜΠΟΥΓΑ, Π.ΚΑΡΑΜΑΝΕΑ
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

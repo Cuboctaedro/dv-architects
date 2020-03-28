@@ -1,0 +1,77 @@
+Title:
+
+Ανέγερση Κλειστού Κολυμβητηρίου Δήμου Ευόσμου Θεσσαλονίκης
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location:
+
+Δήμος Ευόσμου Θεσσαλονίκης, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: 2005-2006
+- 
+  creditlabel: Στάδιο μελέτης
+  credittext: 'Οριστική μελέτη - συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή'
+- 
+  creditlabel: Κύριος του έργου
+  credittext: >
+    Δήμος Εύοσμου
+    Θεσσαλονίκης
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρεία: ΑΡΧΙΚΟΝ Α.Ε '
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 5.675.000,00 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Παπαϊωάνου,
+    Α.Αρτελάρη
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

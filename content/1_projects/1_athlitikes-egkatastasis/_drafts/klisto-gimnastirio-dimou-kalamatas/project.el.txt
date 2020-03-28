@@ -1,0 +1,81 @@
+Title:
+
+Κλειστό Γυμναστήριο Δήμου Καλαμάτας
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Καλαμάτας, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2002"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: >
+    Οριστική μελέτη –
+    συμμετοχή σε
+    διαγωνισμό με το
+    σύστημα μελέτη –
+    κατασκευή
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Υπουργείο Πολιτισμού
+    – Γ.Γ.Α.
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία:  ΑΦΟΙ ΚΥΡΟΜΙΤΗ  Α.Τ.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 4.695.524,58 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Γ. Ασημομύτης,
+    Σ.Κολοβού,
+    Κ.Λαμπρινού, Θ.Παναγέα
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

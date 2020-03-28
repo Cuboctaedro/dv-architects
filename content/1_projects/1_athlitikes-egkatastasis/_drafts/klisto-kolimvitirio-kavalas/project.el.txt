@@ -1,0 +1,72 @@
+Title:
+
+Κλειστό Κολυμβητήριο Καβάλας
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Καβάλας, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2001"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: 'Προμελέτη - Οριστική - Εφαρμογής'
+- 
+  creditlabel: Κύριος Έργου
+  credittext: >
+    Νομαρχιακή
+    Αυτοδιοίκηση Καβάλας
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 5.869.405,72 €
+- 
+  creditlabel: Αρχιτέκτων
+  credittext: Δ. ΒΑΣΙΛΟΠΟΥΛΟΣ
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Κολοβού, Α.
+    Σταυροπούλου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

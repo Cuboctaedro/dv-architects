@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-<div class="relative">
+<div class="relative z-10">
     <div class="absolute inset-x-0 top-0 z-0">
         <?php snippet('images/full', ['pic' => $page->featuredimage()->toFile(), 'classes'=> ' w-full ']) ?>
     </div>

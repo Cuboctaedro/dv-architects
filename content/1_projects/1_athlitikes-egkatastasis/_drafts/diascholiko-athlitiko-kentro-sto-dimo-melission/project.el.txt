@@ -1,0 +1,73 @@
+Title: Διασχολικό αθλητικό Κέντρο στο Δήμο Μελισσίων
+
+----
+
+Projecttype: false
+
+----
+
+Subtitle: 
+
+----
+
+Location: Δήμος Μελισσίων Αττικής, Ελλάδα
+
+----
+
+Credits:
+
+- 
+  creditlabel: Έτος μελέτης
+  credittext: "2004"
+- 
+  creditlabel: Στάδιο Μελέτης
+  credittext: 'Οριστική μελέτη - συμμετοχή σε διαγωνισμό με το σύστημα μελέτη-κατασκευή'
+- 
+  creditlabel: Κύριος Έργου
+  credittext: Δήμος Μελισσίων
+- 
+  creditlabel: 'Υποψήφιος ανάδοχος - εργοδότης'
+  credittext: 'Εργοληπτική εταιρία:  Κ-ΕΡΓΟ Α.Τ.Ε.'
+- 
+  creditlabel: Προϋπολογισμός Έργου
+  credittext: 3.400.000,00 €
+- 
+  creditlabel: Αρχιτέκτονες
+  credittext: 'Δ.ΒΑΣΙΛΟΠΟΥΛΟΣ – Β.ΚΑΡΑΜΑΛΗΣ & ΣΥΝΕΡΓΑΤΕΣ Ε.Ε.'
+- 
+  creditlabel: >
+    Συνεργάτες
+    Αρχιτέκτονες
+  credittext: >
+    Σ.Κολοβού,
+    Κ.Λαμπρινού,
+    Θ.Παναγέα,
+    Σ.Παπαϊωάνου
+
+----
+
+Diagram: 
+
+----
+
+Text: 
+
+----
+
+Shorttext: 
+
+----
+
+Featuredimage: 
+
+----
+
+Gallery: 
+
+----
+
+Description: 
+
+----
+
+Authortwitter: 

@@ -10,33 +10,41 @@ Subtitle: Addition, Improvement, Restoration
 
 ----
 
-Location: Athens, Greece
+Location: Αθήνα, Ελλάδα
 
 ----
 
 Credits:
 
 - 
-  creditlabel: Date
+  creditlabel: Έτος μελέτης
   credittext: '2008 - 2009'
 - 
-  creditlabel: Project status
-  credittext: 'Final Design Phase - Construction Documentation'
+  creditlabel: Στάδιο μελέτης
+  credittext: 'Πλήρης μελέτη (Οριστική - Μελέτη Εφαρμογής - Τεύχη δημοπράτησης)'
 - 
-  creditlabel: In colaboration with the architects
+  creditlabel: >
+    Σε ισότιμη συνεργασία
+    με αρχιτεκτονικό
+    γραφείο
+  credittext: 'Αρχιτεκτονική ΕΠΕ - Γραμματόπουλος - Πανουσάκης'
+- 
+  creditlabel: Κύριος του έργου
+  credittext: Υπουργείο Πολιτισμού
+- 
+  creditlabel: Τρόπος επιλογής
   credittext: >
-    Architectoniki ltd, Grammatopoulos,
-    Panousakis
-- 
-  creditlabel: Client
-  credittext: Ministry of Culture
-- 
-  creditlabel: Selection process
-  credittext: Selected from an Interest Indication
+    Επιλογή μέσω διεθνούς
+    διαγωνισμού με
+    συνδυασμό τεχνικής
+    και οικονομικής
+    προσφοράς
 
 ----
 
-Diagram: - pinakothiki-diagram.png
+Diagram:
+
+- pinakothiki-diagram.png
 
 ----
 
@@ -52,7 +60,9 @@ Shorttext:
 
 ----
 
-Featuredimage: - c3.jpg
+Featuredimage:
+
+- c3.jpg
 
 ----
 
