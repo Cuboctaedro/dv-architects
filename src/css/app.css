@@ -236,3 +236,12 @@ a:hover {
     vertical-align: top;
     @apply leading-tight py-1 ;
 }
+
+
+.slider-item {
+    opacity: 0;
+    transition: opacity 300ms ease-in-out;
+}
+.slider-item.show {
+    opacity: 1;
+}

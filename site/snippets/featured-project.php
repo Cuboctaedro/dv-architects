@@ -7,6 +7,13 @@
         <a href="<?= $item->url() ?>" class="card-link inline-block px-3 py-1 my-2 menutext bg-gray-100 text-gray-900 hover:bg-orange-500 hover:text-gray-900 menueffect" ><?= t('more') ?></a>
     </div>
     <div class="w-full lg:w-2/3 xl:w-3/4 lg:border-l border-solid grayborder">
-        <?php snippet('images/full', ['pic' => $item->gallery()->toStructure()->first()->firstimage()->toFile(), 'classes'=> ' w-full h-auto lg:object-cover lg:h-full ']) ?>
+    <?php 
+    if ( $item->gallery()->toStructure()->count() > 0 ) {
+        if ($pic = $item->gallery()->toStructure()->first()->firstimage()) {
+            snippet('images/full', ['pic' => $pic->toFile(), 'classes' => ' w-full h-auto lg:object-cover lg:h-full ']);
+
+        }
+    }
+    ?>
     </div>
 </article>

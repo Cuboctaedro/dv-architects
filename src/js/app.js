@@ -311,3 +311,30 @@ var initPhotoSwipeFromDOM = function(gallerySelector) {
 
 // execute above function
 initPhotoSwipeFromDOM('.photoswipe-gallery');
+
+
+function home_slider() {
+    let slides = Array.from(document.querySelectorAll('.slider-item'));
+    
+    let total = slides.length;
+
+    let current = 0;
+
+    function showCurrent(current) {
+        slides.forEach((slide) => {
+            removeClass(slide, 'show')
+            addClass(slides[current], 'show');
+        });
+    }
+    function start() {
+        showCurrent(current);
+        if (current < total - 1) {
+            current = current + 1;
+        } else {
+            current = 0;
+        }
+    }
+    start();
+    setInterval(start, 3000);
+}
+home_slider();

@@ -20,8 +20,8 @@ tabs:
                         featuredimage:
                             type: files
                             layout: cards
-                            multiple: false
-                            label: Featured Image
+                            multiple: true
+                            label: Featured Images
           - width: 1/3
             sections:
                 pagefiles:
