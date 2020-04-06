@@ -11,7 +11,7 @@
         </article>
         <div class="w-full lg:w-1/2   ">
             <article class="p-4 sm:p-6 md:p-8 generated border-b border-solid grayborder">
-                <h2 class="font-titles text-2xl leading-tight mb-4 sm:mb-6 md:mb-8"><?= t('awards') ?></h2>
+                <h2 class="font-titles text-2xl leading-tight mb-4 sm:mb-6 md:mb-8"><?= t('architecture-awards') ?></h2>
                 <table>
                     <tr class="hidden">
                         <th><?= t('year') ?></th>
@@ -19,7 +19,7 @@
                         <th><?= t('award') ?></th>
                         <th><?= t('architects') ?></th>
                     </tr>
-                    <?php foreach ($page->awards()->toStructure() as $row) : ?>
+                    <?php foreach ($page->awards()->toStructure()->filterBy( 'category', 'architecture' ) as $row) : ?>
                         <tr class="flex flex-row flex-wrap border-t border-solid border-gray-500 py-1  text-gray-300">
                             <td class="tablecell w-full sm:w-1/12 pr-1"><?= $row->year() ?></td>
                             <td class="tablecell w-full sm:w-5/12 pr-1 font-titles text-gray-100"><?= $row->title() ?></td>
@@ -28,6 +28,43 @@
                         </tr>
                     <?php endforeach; ?>
                 </table>
+
+                <h2 class="font-titles text-2xl leading-tight mb-4 sm:mb-6 md:mb-8"><?= t('closed-awards') ?></h2>
+                <table>
+                    <tr class="hidden">
+                        <th><?= t('year') ?></th>
+                        <th><?= t('project') ?></th>
+                        <th><?= t('award') ?></th>
+                        <th><?= t('architects') ?></th>
+                    </tr>
+                    <?php foreach ($page->awards()->toStructure()->filterBy( 'category', 'closed' ) as $row) : ?>
+                        <tr class="flex flex-row flex-wrap border-t border-solid border-gray-500 py-1  text-gray-300">
+                            <td class="tablecell w-full sm:w-1/12 pr-1"><?= $row->year() ?></td>
+                            <td class="tablecell w-full sm:w-5/12 pr-1 font-titles text-gray-100"><?= $row->title() ?></td>
+                            <td class="tablecell w-full sm:w-2/12 pr-1"><?= $row->award() ?></td>
+                            <td class="tablecell w-full sm:w-4/12 "><?= $row->architects() ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                </table>
+
+                <h2 class="font-titles text-2xl leading-tight mb-4 sm:mb-6 md:mb-8"><?= t('construction-awards') ?></h2>
+                <table>
+                    <tr class="hidden">
+                        <th><?= t('year') ?></th>
+                        <th><?= t('project') ?></th>
+                        <th><?= t('award') ?></th>
+                        <th><?= t('architects') ?></th>
+                    </tr>
+                    <?php foreach ($page->awards()->toStructure()->filterBy( 'category', 'construction' ) as $row) : ?>
+                        <tr class="flex flex-row flex-wrap border-t border-solid border-gray-500 py-1  text-gray-300">
+                            <td class="tablecell w-full sm:w-1/12 pr-1"><?= $row->year() ?></td>
+                            <td class="tablecell w-full sm:w-5/12 pr-1 font-titles text-gray-100"><?= $row->title() ?></td>
+                            <td class="tablecell w-full sm:w-2/12 pr-1"><?= $row->award() ?></td>
+                            <td class="tablecell w-full sm:w-4/12 "><?= $row->architects() ?></td>
+                        </tr>
+                    <?php endforeach; ?>
+                </table>
+
             </article>
 
             <article class="p-4 sm:p-6 md:p-8 ">

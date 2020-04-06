@@ -28,6 +28,13 @@ tabs:
                                 architects:
                                     type: text
                                     label: Architects
+                                category:
+                                    label: Category
+                                    type: select
+                                    options:
+                                        architecture: Αρχιτεκτονικοί Διαγωνισμοί
+                                        closed: Κλειστοί Διαγωνισμοί
+                                        construction: Μελέτη Κατασκευή
                         featuredimage:
                             type: files
                             layout: cards
