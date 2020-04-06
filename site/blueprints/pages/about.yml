@@ -12,29 +12,6 @@ tabs:
                     fields:
                         text:
                             extends: fields/fulleditor
-                        awards:
-                            type: structure
-                            label: Awards
-                            fields:
-                                title:
-                                    type: text
-                                    label: Project Title
-                                year:
-                                    type: text
-                                    label: Year
-                                award:
-                                    type: text
-                                    label: Award
-                                architects:
-                                    type: text
-                                    label: Architects
-                                category:
-                                    label: Category
-                                    type: select
-                                    options:
-                                        architecture: Αρχιτεκτονικοί Διαγωνισμοί
-                                        closed: Κλειστοί Διαγωνισμοί
-                                        construction: Μελέτη Κατασκευή
                         featuredimage:
                             type: files
                             layout: cards
@@ -51,4 +28,35 @@ tabs:
             sections:
                 pagefiles:
                     extends: sections/pagefiles
+    awards:
+        label: Awards
+        icon: star
+        sections:
+            awards-list:
+                type: fields
+                fields:
+                    awards:
+                        type: structure
+                        label: Awards
+                        fields:
+                            title:
+                                type: text
+                                label: Project Title
+                            year:
+                                type: text
+                                label: Year
+                            award:
+                                type: text
+                                label: Award
+                            architects:
+                                type: text
+                                label: Architects
+                            category:
+                                label: Category
+                                type: select
+                                options:
+                                    architecture: Αρχιτεκτονικοί Διαγωνισμοί
+                                    closed: Κλειστοί Διαγωνισμοί
+                                    construction: Μελέτη Κατασκευή
+
     seo: tabs/seo

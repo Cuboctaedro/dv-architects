@@ -27,12 +27,25 @@
 
     <div class="flex flex-col min-h-screen flex-none ">
 
-        <div class="w-full flex-none flex flex-row flex-wrap justify-between h-12 z-10 bg-gray-700 text-gray-300 relative z-20">
+        <div class="w-full flex-none flex flex-row flex-wrap justify-between h-16 z-10 bg-gray-700 text-gray-300 relative z-20">
             <div>
                 <?php if ($page->isHomePage()) : ?>
-                    <h1 class="h-12 leading-12 px-4 sm:px-6 md:px-8 font-titles uppercase tracking-wider whitespace-no-wrap border-r border-solid grayborder"><?= $site->title() ?></h1>
+                    
+                    <div class="border-r border-solid grayborder h-16 px-4 sm:px-6 flex">
+                        <?php if ( $site->logoimage()->isNotEmpty() ) : ?>
+                            <div class="pr-4 sm:pr-6 py-px h-16"><img src="<?= $site->logoimage()->toFile()->url(); ?>" class="w-auto h-full block" /></div>
+                        <?php endif; ?>
+                        <h1 class=" leading-16 font-titles uppercase tracking-wider whitespace-no-wrap"><?= $site->title() ?></h1>
+                    </div>
+                    
                 <?php else : ?>
-                    <a href="<?= $site->url() ?>" class="block h-12 leading-12 px-4 sm:px-6 md:px-8 font-titles uppercase tracking-wider whitespace-no-wrap border-r border-solid grayborder menucolors"><?= $site->title() ?></a>
+
+                    <a class="border-r border-solid grayborder h-16 px-4 sm:px-6 flex menucolors" href="<?= $site->url() ?>">
+                        <?php if ( $site->logoimage()->isNotEmpty() ) : ?>
+                            <div class="pr-4 sm:pr-6 py-px h-16"><img src="<?= $site->logoimage()->toFile()->url(); ?>" class="h-full" /></div>
+                        <?php endif; ?>
+                        <div class=" leading-16 font-titles uppercase tracking-wider whitespace-no-wrap"><?= $site->title() ?></div>
+                    </a>
                 <?php endif; ?>
             </div>
             <div class="flex flex-row">

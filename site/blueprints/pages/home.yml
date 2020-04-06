@@ -22,6 +22,11 @@ tabs:
                             layout: cards
                             multiple: true
                             label: Featured Images
+                        logoimage:
+                            type: files
+                            layout: cards
+                            multiple: false
+                            label: Logo
           - width: 1/3
             sections:
                 pagefiles:

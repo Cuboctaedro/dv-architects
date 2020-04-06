@@ -35,6 +35,11 @@ tabs:
                 siteseo:
                     type: fields
                     fields:
+                        logoimage:
+                            type: files
+                            layout: cards
+                            multiple: false
+                            label: Logo
                         sitetwitter:
                             type: text
                             label: Site Twitter Username

@@ -70,7 +70,7 @@
             <article class="p-4 sm:p-6 md:p-8 ">
                 <h2 class="font-titles text-2xl leading-tight mb-4 sm:mb-6 md:mb-8"><?= t('team') ?></h2>
                 <?php foreach ($page->children()->filterBy('intendedTemplate', 'person') as $person) : ?>
-                    <div class="flex flex-row flex-wrap border-t border-solid border-gray-500 pt-4 text-gray-300">
+                    <div class="flex flex-row flex-wrap border-t border-solid border-gray-500 pt-4 pb-4 text-gray-300">
                         <div class="w-1/2 sm:w-1/3 lg:w-1/4 sm:pr-3 pb-4">
                             <?php if ($pic = $person->featuredimage()->toFile()) : ?>
                                 <img data-src="<?= $pic->thumb(['width' => 320])->url(); ?>" class="block lazyload " alt="Portrait <?= $person->title(); ?>" />

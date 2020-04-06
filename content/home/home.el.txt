@@ -20,6 +20,12 @@ Featuredimage:
 
 ----
 
+Logoimage:
+
+- dv-logo.png
+
+----
+
 Description: 
 
 ----
