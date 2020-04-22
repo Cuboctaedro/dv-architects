@@ -8,6 +8,13 @@ Logoimage:
 
 ----
 
+Footerimages:
+
+- dqs.png
+- iqnet.png
+
+----
+
 Sitetwitter: 
 
 ----

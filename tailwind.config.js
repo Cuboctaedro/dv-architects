@@ -89,7 +89,7 @@ module.exports = {
 
         fontFamily: {
             sans: [
-                '"Open Sans"',
+                // '"Open Sans"',
                 'Roboto',
                 'Ubuntu',
                 'sans-serif'

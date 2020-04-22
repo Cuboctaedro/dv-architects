@@ -40,6 +40,10 @@ tabs:
                             layout: cards
                             multiple: false
                             label: Logo
+                        footerimages:
+                            type: files
+                            layout: cards
+                            label: ISO
                         sitetwitter:
                             type: text
                             label: Site Twitter Username
